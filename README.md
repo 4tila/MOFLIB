@@ -40,9 +40,9 @@ c1(ccccc1)F
 ```
 Here are some examples of possible mutations of benzene done by the algorithm together with the unmutated molecule for comparison (first image)
 
-<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img01.png" width="200" height="200" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img02.png" width="200" height="200" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img03.png" width="200" height="200" />
+<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img01.png" width="250" height="250" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img02.png" width="250" height="250" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img03.png" width="250" height="250" />
 
-<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img04.png" width="200" height="200" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img05.png" width="200" height="200" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img06.png" width="200" height="200" />
+<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img04.png" width="250" height="250" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img05.png" width="250" height="250" /><img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img06.png" width="250" height="250" />
 
 
 A function to generate a adjacency matrix with information on the atomic numbers
