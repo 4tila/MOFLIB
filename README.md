@@ -118,3 +118,13 @@ The "generate_cif.py" makes a cif from all the linkers in the molecules director
 ```
 python3 generate_cif.py
 ```
+
+## Proof Of Concept
+
+Molecule 5020_mbPXoIZAGm (in the molecules file) with corresponding CIF 5020_mbPXoIZAGm.cif (At cifs file) has a band gap of 0.391 eV by GGA-PBE, with calculations done on materials studio.
+
+<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/5020.png" width="400" height="400" />
+
+## Acknowledgement
+
+I'd like to thank professor David Azevedo that came with the idea of the project and guided the research. This work was done at universidade de Brasília and funded by CNPQ and it's free to use. My email is loboatila@gmail.com in case you would like to contact me
