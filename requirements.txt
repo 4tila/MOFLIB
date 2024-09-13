@@ -1,0 +1,6 @@
+numpy==1.26.4
+openbabel==3.1.1.1
+pandas==2.2.1
+pormake==0.2.1
+scikit_learn==1.0.2
+xgboost==2.0.3
