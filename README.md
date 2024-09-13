@@ -1,6 +1,6 @@
 # MOFLIB
 
-The code has been developed with the intent of searching for semiconducting metal organic frameworks (MOF's) of manganese SBU's. Later I hope to develop and generalize for other types of nodes as well. Any contributions as well as forks are welcomed. I'll explain what each of the files do.
+Algorithm for generating metal organic framework semiconductors with a metropolis algorithm, where the the mutation is done directly at the molecular structure. The semiconductors generated until now have all been narrow gap semiconductors
 
 ## MOFLIB
 
