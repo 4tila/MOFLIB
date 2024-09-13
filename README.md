@@ -123,7 +123,7 @@ python3 generate_cif.py
 
 Molecule 5020_mbPXoIZAGm (in the molecules file) with corresponding CIF 5020_mbPXoIZAGm.cif (At cifs file) has a band gap of 0.391 eV by GGA-PBE, with calculations done on materials studio.
 
-<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/5020.png" width="400" height="400" />
+<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/5020.jpg" width="500" height="400" />
 
 ## Acknowledgement
 
