@@ -38,6 +38,19 @@ C1=CC=CC1
 c1(ccccc1)F	
 
 ```
+Here are some examples of possible mutations of benzene done by the algorithm together with the unmutated molecule for comparison (first image)
+
+![image](/imgs/transparent_img01.png)
+
+![image](/imgs/transparent_img02.png)
+
+![image](/imgs/transparent_img03.png)
+
+![image](/imgs/transparent_img04.png)
+
+![image](/imgs/transparent_img05.png)
+
+![image](/imgs/transparent_img06.png)
 
 A function to generate a adjacency matrix with information on the atomic numbers
 
