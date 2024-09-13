@@ -77,6 +77,10 @@ A function that generate a dycarboxilate linker using a molecule as a seed
 >>> print(mol2)
 c1ccc(c(c1)c1c(cccc1)C(=O)[O])C(=O)[O]	
 ```
+Here's the result of applying the function to benzene
+
+<img src="https://github.com/4tila/MOFLIB/blob/main/imgs/transparent_img07.png" width="200" height="200" />
+
 
 To find out more about those functions use
 
